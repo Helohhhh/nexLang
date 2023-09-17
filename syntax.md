@@ -154,7 +154,7 @@
         const str data = "Hello World"
         const str result = data.toLowerCase()
         ```
-        # will add more later
+         will add more later
     - Data type Parameters: Data Type parameters in functions for improverd clarity and improved flexibility (**Note that the data type of the parameter cannot be changed!**)
     Example:
     ```javascript
