@@ -1,5 +1,5 @@
 # Syntax Rules for NexLang  Language
-## Rules:
+## Syntax:
 - To print stuff to the terminal
     - Syntax: `console.print("")` for printing stuff, and `console.print()` for printing raw data.
     - Example: 
