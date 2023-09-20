@@ -1,7 +1,7 @@
 # Syntax Rules for NexLang  Language
 ## Syntax:
 - To print stuff to the terminal
-    - Syntax: `console.print("")` for printing stuff, and `console.print()` for printing raw data.
+    - Syntax: `print("")` for printing stuff, and `print()` for printing raw data.
     - Example: 
       ```python
       console.print("Hello, World!")
