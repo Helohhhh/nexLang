@@ -4,8 +4,8 @@
     - Syntax: `print("")` for printing stuff, and `print()` for printing raw data.
     - Example: 
       ```python
-      console.print("Hello, World!")
-      console.print(42)
+      print("Hello, World!")
+      print(42)
       ```
 
 - Naming variables:
